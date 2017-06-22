@@ -23,7 +23,7 @@
     "psr-4": { "Omnipay\\Przelewy24\\" : "src/" }
   },
   "require": {
-    "omnipay/common": "^2.3"
+    "omnipay/common": "dev-master"
   },
   "require-dev": {
     "omnipay/tests": "^2.0"
