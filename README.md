@@ -1,4 +1,8 @@
 # Omnipay: Przelewy24
+**Bramka Przelewy24 dla biblioteki PHP Omnipay przetwarzającej płatności**
+
+
+# Omnipay: Przelewy24
 
 **Przelewy24 gateway for the Omnipay PHP payment processing library**
 
@@ -109,3 +113,4 @@ If you discover any security related issues, please email info@ticketswap.com in
 ## License
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
+
