@@ -103,6 +103,7 @@ If you discover any security related issues, please email info@ticketswap.com in
 
 ## Credits
 
+- [danoxide](https://github.com/danoxide)
 - [TicketSwap](https://github.com/ticketswap)
 
 ## License
